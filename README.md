@@ -2,4 +2,4 @@
 
 ---
 
-Will be update Soon.
+Will be updated Soon.
