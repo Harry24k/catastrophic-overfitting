@@ -1,11 +1,11 @@
 
 # Understanding Catastrophic Overfitting in Single-step Adversarial Training
 
-Author: Hoki Kim, Woojin Lee, Jaewook Lee (Seoul National Univ')
+**Author:** Hoki Kim, Woojin Lee, Jaewook Lee (Seoul National Univ')
 
-Paper: https://arxiv.org/abs/2010.01799
+**Paper:** https://arxiv.org/abs/2010.01799
 
-Venue: AAAI 2021
+**Venue:** AAAI 2021
 
 
 
