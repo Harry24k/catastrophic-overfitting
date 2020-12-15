@@ -41,7 +41,7 @@ On the left side of the figure, we can easily observe that the model is robust a
 
 
 
-To check how to draw the loss surface and get the value of distortion, please refer to []().
+To check how to draw the loss surface and get the value of distortion, please refer to [Decision Boundary Disortion.ipynb](https://github.com/Harry24k/catastrophic-overfitting/blob/main/Decision%20Boundary%20Disortion.ipynb).
 
 
 
