@@ -51,7 +51,9 @@ To check how to draw the loss surface and get the value of distortion, please re
 
 To resolve this issue, we suggest a simple fix to prevent catastrophic overfitting by forcing the model to verify the inner interval of the adversarial direction.
 
-<img src="README.assets/image-20201215232459218.png" alt="image-20201215232459218" style="zoom: 67%;" />
+<p align="center">
+  <img src="README.assets/image-20201215232459218.png" style="width:200px;"/>
+</p>
 
 ### Training
 
