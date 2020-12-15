@@ -16,8 +16,8 @@ The code requires
 * Python 3.6 or higher
 * torch 1.4 or higher
 * torchvision 0.5 or higher
-* torchattacks 2.4 or higher
-* torchhk 0.7 or higher
+* torchattacks 2.11 or higher
+* torchhk 0.85 or higher
 
 
 
