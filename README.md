@@ -45,7 +45,7 @@ To check how to draw the loss surface and get the value of distortion, please re
 
 
 
-## Robustness
+## Proposed Method
 
 ### Algorithm
 
