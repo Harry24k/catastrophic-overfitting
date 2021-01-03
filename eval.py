@@ -42,7 +42,7 @@ def run(name, model, root, data_path, gpu, method, eps, alpha, steps, restart):
 
 
 if __name__ == "__main__":
-    parser = ArgumentParser(description="Training script", formatter_class=ArgumentDefaultsHelpFormatter)
+    parser = ArgumentParser(description="Evaluation script", formatter_class=ArgumentDefaultsHelpFormatter)
     parser.add_argument('--name', type=str, help='Name of saved model')
     parser.add_argument('--root', type=str, help='Root of saved model')
     parser.add_argument('--model', type=str, default='PRN18', choices=['PRN18', 'WRN28'], help='Model Structure')
