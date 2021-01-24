@@ -13,11 +13,11 @@
 
 The code requires
 
-* Python 3.6 or higher
-* torch 1.4 or higher
-* torchvision 0.5 or higher
-* torchattacks 2.11 or higher
-* torchhk 0.85 or higher
+* Python==3.6
+* torch==1.4
+* torchvision==0.5
+* torchattacks==2.12
+* torchhk==0.85
 
 
 
