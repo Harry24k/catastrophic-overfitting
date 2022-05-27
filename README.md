@@ -7,7 +7,18 @@
 
 **Venue:** AAAI 2021
 
+## Citation
+If you use this package, please cite the following BibTex (SemanticScholar, GoogleScholar):
 
+```
+@article{lee2022graddiv,
+  title={Graddiv: Adversarial robustness of randomized neural networks via gradient diversity regularization},
+  author={Lee, Sungyoon and Kim, Hoki and Lee, Jaewook},
+  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  year={2022},
+  publisher={IEEE}
+}
+```
 
 ## Requirements
 
