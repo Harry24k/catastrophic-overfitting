@@ -8,8 +8,6 @@
 **Venue:** AAAI 2021
 
 ## Citation
-If you use this package, please cite the following BibTex (SemanticScholar, GoogleScholar):
-
 ```
 @article{lee2022graddiv,
   title={Graddiv: Adversarial robustness of randomized neural networks via gradient diversity regularization},
