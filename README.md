@@ -9,12 +9,14 @@
 
 ## Citation
 ```
-@article{lee2022graddiv,
-  title={Graddiv: Adversarial robustness of randomized neural networks via gradient diversity regularization},
-  author={Lee, Sungyoon and Kim, Hoki and Lee, Jaewook},
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
-  year={2022},
-  publisher={IEEE}
+@inproceedings{kim2021understanding,
+  title={Understanding catastrophic overfitting in single-step adversarial training},
+  author={Kim, Hoki and Lee, Woojin and Lee, Jaewook},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={35},
+  number={9},
+  pages={8119--8127},
+  year={2021}
 }
 ```
 
